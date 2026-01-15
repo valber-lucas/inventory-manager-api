@@ -1,4 +1,4 @@
-<img src="logo.png" alt="logo">
+<img src="VLCODE.png" alt="logo">
 # Inventory Manager API
 
 API REST profissional para gestão de inventário, desenvolvida com foco em arquitetura limpa, segurança e escalabilidade.
