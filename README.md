@@ -1,4 +1,4 @@
-<img src="VLCODE.png" alt="logo" width="50">
+<img src="VLCODE.png" alt="logo" width="150">
 
 # Inventory Manager API
 
